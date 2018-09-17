@@ -1,11 +1,14 @@
 _repo: The-Love-That-Prevailed_51971
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Matthews, Harry B.
     alias: Matthews, H. B. (Harry B.)
     gutenberg_agent_id: '35330'
     url: http://www.gutenberg.org/2009/agents/35330
+covers:
+- cover_type: archival
+  image_path: 51971-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Frank Frankfort
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/837
     wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51971#The-Love-That-Prevailed
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
